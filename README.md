@@ -1,4 +1,5 @@
 🧐 Graduação em andamento: Ciência da Computação
+
 📝 Estudando atualmente: SQL
 
 
