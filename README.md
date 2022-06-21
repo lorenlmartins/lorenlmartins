@@ -2,7 +2,7 @@ Oi! seja bem-vindo ao meu GitHub 👋
 
 🧐 Graduação em andamento: Ciência da Computação
 
-📝 Estudando atualmente: SQL
+📝 Estudando atualmente: Java
 
 
 <!---
