@@ -1,8 +1,8 @@
 # Hello! 👋🌸☕️🌿
 
-- 💻 **Back-End Software Engineer**
+- 💻 **Full Stack Software Engineer**
 - 💼 **Tech Industry Experience**: Almost 2 years
-- 💻 **Languages and Technologies**: C#, .NET, JavaScript
+- 💻 **Languages and Technologies**: C#, .NET, Typescript, Javascript, React
 
 ✨ Here are some of my study notes and side projects.
 
